@@ -1,0 +1,8 @@
+car
+taxi
+bus
+train
+plane
+bike
+ship
+lorry

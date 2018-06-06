@@ -1,0 +1,8 @@
+apple
+banana
+kiwi
+lemon
+orange
+pear
+pineapple
+tangerine
